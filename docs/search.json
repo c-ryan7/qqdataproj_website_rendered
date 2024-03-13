@@ -1,45 +1,10 @@
 [
   {
-    "objectID": "pages_of_site/data_cleaning/sample_data_cleaning_page.html",
-    "href": "pages_of_site/data_cleaning/sample_data_cleaning_page.html",
-    "title": "Put Data Cleaning Here Once Finish",
-    "section": "",
-    "text": "will likely need multiple pages in this folder…!"
-  },
-  {
-    "objectID": "pages_of_site/results/results.html",
-    "href": "pages_of_site/results/results.html",
-    "title": "Sample Results Page",
+    "objectID": "pages_of_site/proj_outcomes/discussion/discussion.html",
+    "href": "pages_of_site/proj_outcomes/discussion/discussion.html",
+    "title": "Sample Discussion Page",
     "section": "",
     "text": "fill me!"
-  },
-  {
-    "objectID": "pages_of_site/proj_bckgd/methods.html",
-    "href": "pages_of_site/proj_bckgd/methods.html",
-    "title": "Methods",
-    "section": "",
-    "text": "Will write out descriptions of the datasets here\nMethods section + summarize my qq_notes.md for metadata stuff"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Connie Ryan (she or they) is currently pursuing a Master of Forestry degree at UC Berkeley. Her research describes pre-colonization forest structure and composition in California, focusing on stand density as a measurement of competitive stress, and relates that information to contemporary forestry regulations and practices to inform forest management. Connie hopes to continue working on research that draws on ecology and forestry to both understand forests and support their health through ecologically-inspired adaptive management.\nUniversity of California, Berkeley | Berkeley, CA\nB.S., Ecosystem Management & Forestry | August 2019 - May 2023"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "Welcome to my MF Thesis!"
-  },
-  {
-    "objectID": "pages_of_site/analysis/sample_analysis_page.html",
-    "href": "pages_of_site/analysis/sample_analysis_page.html",
-    "title": "Filler Analysis Page",
-    "section": "",
-    "text": "may need multiple analysis pages…"
   },
   {
     "objectID": "pages_of_site/proj_bckgd/introduction.html",
@@ -49,9 +14,44 @@
     "text": "intro, background of thesis"
   },
   {
-    "objectID": "pages_of_site/discussion/discussion.html",
-    "href": "pages_of_site/discussion/discussion.html",
-    "title": "Sample Discussion Page",
+    "objectID": "pages_of_site/analysis/data_cleaning/sample_data_cleaning_page.html",
+    "href": "pages_of_site/analysis/data_cleaning/sample_data_cleaning_page.html",
+    "title": "Put Data Cleaning Here Once Finish",
+    "section": "",
+    "text": "will likely need multiple pages in this folder…!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Connie Ryan (she or they) is currently pursuing a Master of Forestry degree at UC Berkeley. Her research describes pre-colonization forest structure and composition in California, focusing on stand density as a measurement of competitive stress, and relates that information to contemporary forestry regulations and practices to inform forest management. Connie hopes to continue working on research that draws on ecology and forestry to both understand forests and support their health through ecologically-inspired adaptive management.\nEducation\nUniversity of California, Berkeley | Berkeley, CA\nB.S., Ecosystem Management & Forestry | August 2019 - May 2023"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Connie Ryan’s MF Thesis",
+    "section": "",
+    "text": "Welcome to my MF Thesis!"
+  },
+  {
+    "objectID": "pages_of_site/analysis/data_analysis/sample_analysis_page.html",
+    "href": "pages_of_site/analysis/data_analysis/sample_analysis_page.html",
+    "title": "Filler Analysis Page",
+    "section": "",
+    "text": "may need multiple analysis pages…"
+  },
+  {
+    "objectID": "pages_of_site/proj_bckgd/methods.html",
+    "href": "pages_of_site/proj_bckgd/methods.html",
+    "title": "Methods",
+    "section": "",
+    "text": "Will write out descriptions of the datasets here\nMethods section + summarize my qq_notes.md for metadata stuff"
+  },
+  {
+    "objectID": "pages_of_site/proj_outcomes/results/results.html",
+    "href": "pages_of_site/proj_outcomes/results/results.html",
+    "title": "Sample Results Page",
     "section": "",
     "text": "fill me!"
   }
